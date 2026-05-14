@@ -27,7 +27,7 @@ This project provides an automated script to transform a fresh macOS installatio
 
 ---
 
-## 🛠 Usage Instructions
+## Usage Instructions
 
 ### 1. Download the script
 Save the `setup.sh` file to your Mac[cite: 2].
