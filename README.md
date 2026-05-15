@@ -1,4 +1,4 @@
-# Environment Setup
+# Environment Setup - For MacOS
 
 This project provides an automated script to transform a fresh macOS installation into a high-performance, AI-integrated development environment[cite: 2]. It supports a modern tech stack (C++, Java, Python, Node.js, Go) and installs essential AI tools like Cursor, Claude, and Ollama[cite: 2].
 
